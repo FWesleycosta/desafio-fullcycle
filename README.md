@@ -1,5 +1,5 @@
 # IMAGE GO
 
 ```
-docker push fwcpereira/golang:v1.0.0
+docker pull fwcpereira/v1.0.0:latest
 ```
